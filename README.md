@@ -8,4 +8,5 @@
  ## Document Actions
  - Get Documents
  - Get Document by ID
+ - Update Document by ID
  - Download Document by ID
